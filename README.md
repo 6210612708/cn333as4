@@ -1,0 +1,6 @@
+# cn333as4
+
+#นางสาวจารุกร ล่ำชม 6210612708
+l. สามารถ Convert ระหว่าง Celsius - Fahrenheit
+2. สามารถ Convert ระหว่าง Meter - Mile
+3. สามารถ Convert ระหว่าง PSI - Bar
