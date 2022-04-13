@@ -3,7 +3,7 @@
 #นางสาวจารุกร ล่ำชม 6210612708
 
 
-l. สามารถ Convert ระหว่าง Celsius - Fahrenheit
+1. สามารถ Convert ระหว่าง Celsius - Fahrenheit
 
 
 2. สามารถ Convert ระหว่าง Meter - Mile
